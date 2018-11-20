@@ -1,0 +1,9 @@
+{
+  "name": "exercise-interaction",
+  "main": "exercise-interaction.js",
+  "version": "61.0.0",
+  "author": {
+    "name": "Mila Frerichs",
+    "url": "https://beta.observablehq.com/@milafrerichs"
+  }
+}

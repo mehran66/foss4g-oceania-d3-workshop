@@ -1,0 +1,9 @@
+{
+  "name": "example-path",
+  "main": "example-path.js",
+  "version": "37.0.0",
+  "author": {
+    "name": "Mila Frerichs",
+    "url": "https://beta.observablehq.com/@milafrerichs"
+  }
+}

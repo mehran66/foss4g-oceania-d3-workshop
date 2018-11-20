@@ -1,0 +1,9 @@
+{
+  "name": "exercise-choropleth",
+  "main": "exercise-choropleth.js",
+  "version": "47.0.0",
+  "author": {
+    "name": "Mila Frerichs",
+    "url": "https://beta.observablehq.com/@milafrerichs"
+  }
+}

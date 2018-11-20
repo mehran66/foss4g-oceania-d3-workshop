@@ -1,0 +1,9 @@
+{
+  "name": "example-circle",
+  "main": "example-circle.js",
+  "version": "31.0.0",
+  "author": {
+    "name": "Mila Frerichs",
+    "url": "https://beta.observablehq.com/@milafrerichs"
+  }
+}

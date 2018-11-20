@@ -1,0 +1,9 @@
+{
+  "name": "example-create-elements",
+  "main": "example-create-elements.js",
+  "version": "98.0.0",
+  "author": {
+    "name": "Mila Frerichs",
+    "url": "https://beta.observablehq.com/@milafrerichs"
+  }
+}

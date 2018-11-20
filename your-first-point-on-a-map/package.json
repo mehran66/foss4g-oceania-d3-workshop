@@ -1,0 +1,9 @@
+{
+  "name": "your-first-point-on-a-map",
+  "main": "your-first-point-on-a-map.js",
+  "version": "38.0.0",
+  "author": {
+    "name": "Mila Frerichs",
+    "url": "https://beta.observablehq.com/@milafrerichs"
+  }
+}

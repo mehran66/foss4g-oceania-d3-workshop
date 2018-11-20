@@ -1,0 +1,9 @@
+{
+  "name": "example-geo-path",
+  "main": "example-geo-path.js",
+  "version": "45.0.0",
+  "author": {
+    "name": "Mila Frerichs",
+    "url": "https://beta.observablehq.com/@milafrerichs"
+  }
+}

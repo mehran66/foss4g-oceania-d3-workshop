@@ -1,0 +1,9 @@
+{
+  "name": "example-create-new-elements-from-thin-air",
+  "main": "example-create-new-elements-from-thin-air.js",
+  "version": "105.0.0",
+  "author": {
+    "name": "Mila Frerichs",
+    "url": "https://beta.observablehq.com/@milafrerichs"
+  }
+}

@@ -1,0 +1,9 @@
+{
+  "name": "exercise-change-attributes",
+  "main": "exercise-change-attributes.js",
+  "version": "93.0.0",
+  "author": {
+    "name": "Mila Frerichs",
+    "url": "https://beta.observablehq.com/@milafrerichs"
+  }
+}

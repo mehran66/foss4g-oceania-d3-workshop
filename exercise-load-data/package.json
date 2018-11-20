@@ -1,0 +1,9 @@
+{
+  "name": "exercise-load-data",
+  "main": "exercise-load-data.js",
+  "version": "96.0.0",
+  "author": {
+    "name": "Mila Frerichs",
+    "url": "https://beta.observablehq.com/@milafrerichs"
+  }
+}

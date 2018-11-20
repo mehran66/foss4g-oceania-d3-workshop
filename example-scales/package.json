@@ -1,0 +1,9 @@
+{
+  "name": "example-scales",
+  "main": "example-scales.js",
+  "version": "163.0.0",
+  "author": {
+    "name": "Mila Frerichs",
+    "url": "https://beta.observablehq.com/@milafrerichs"
+  }
+}

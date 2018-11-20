@@ -1,0 +1,9 @@
+{
+  "name": "example-exercise-events",
+  "main": "example-exercise-events.js",
+  "version": "71.0.0",
+  "author": {
+    "name": "Mila Frerichs",
+    "url": "https://beta.observablehq.com/@milafrerichs"
+  }
+}

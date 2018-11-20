@@ -1,0 +1,9 @@
+{
+  "name": "example-projection",
+  "main": "example-projection.js",
+  "version": "45.0.0",
+  "author": {
+    "name": "Mila Frerichs",
+    "url": "https://beta.observablehq.com/@milafrerichs"
+  }
+}
