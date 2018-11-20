@@ -1,0 +1,9 @@
+{
+  "name": "example-attributes",
+  "main": "example-attributes.js",
+  "version": "81.0.0",
+  "author": {
+    "name": "Mila Frerichs",
+    "url": "https://beta.observablehq.com/@milafrerichs"
+  }
+}
